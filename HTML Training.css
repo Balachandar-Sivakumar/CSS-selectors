@@ -1,0 +1,56 @@
+
+
+
+h1{
+    color: brown;
+}
+h2{
+    color: teal;
+}
+
+.main>li>.session{
+    color: rgb(177, 189, 6);
+}
+
+.batch h3{
+    color: indigo;
+}
+
+.tech>li>h4{
+    color: darkorchid;
+}
+
+.tech>ol>.point1{
+    color: chocolate;
+}
+.tech>ol>.point1~.point2{
+    color: darkolivegreen;
+}
+.tech>ol>.point2~.point3{
+    color: crimson;
+}
+.tech>ol>.point3~.point4{
+    color: darkred;
+}
+
+.Assesments h4{
+    color: maroon;
+}
+
+.Assesments>ol>.point1{
+    color: yellowgreen;
+}
+.Assesments .point1~.point2{
+    color: yellow;
+}
+
+.tech1>li>h4{
+    color: tomato;
+}
+
+.tech1 .point1{
+    color: steelblue;
+}
+.tech1 .point1+.point2{
+    color: slateblue;
+}
